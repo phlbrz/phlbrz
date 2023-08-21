@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-It's a different style to have a CV form my LinkedIn profile at <https://www.linkedin.com/in/phlbrz>.
+A different style to have a CV from my LinkedIn profile at <https://www.linkedin.com/in/phlbrz>.
 
 About
 Highly skilled and motivated IT professional with expertise in Site Reliability Engineering (6+ years), Software Engineering (12+ years), DevOps (6+ years) and Solutions Architecture (10+ years). Seeking a challenging position as a Load Balancer NSX-ALB Administrator, Platform-as-a-Service (PaaS) Openshift 3.11/4.x Administrator/ Kubernetes, Automation development, CI/CD development to leverage my experience in ensuring high availability, load balancing, enhancing application delivery, and securing on-premise virtualized or cloud environments. Committed to delivering innovative solutions that solve business cases, driving business results and contribute to company growth.
