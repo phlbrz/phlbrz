@@ -38,7 +38,10 @@ Results:
 - Developed, maintained important projects like Popular Pharmacy and others.
 - Developed, maintained projects for the government (Outsourcing), like ANAC and others.
 - Developed, maintained projects for the government (outsourcing) like MEC and IPHAN.
-  
+
+Repositories:
+- https://hub.docker.com/u/phlbrz
+- https://crates.io/crates/demsf-rs
 <!--
 **phlbrz/phlbrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
