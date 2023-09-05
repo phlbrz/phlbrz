@@ -6,15 +6,16 @@ Presently, I'm working remotely and #OpenToWork, pursuing remote opportunities, 
 
 ## About
 
-Highly skilled and motivated IT professional with expertise in Site Reliability Engineering (6+ years), Software Engineering (12+ years), DevOps (6+ years) and Solutions Architecture (10+ years). Seeking a challenging position as a Load Balancer NSX-ALB Administrator, Platform-as-a-Service (PaaS) Openshift 3.11/4.x Administrator/ Kubernetes, Automation development, CI/CD development to leverage my experience in ensuring high availability, load balancing, enhancing application delivery, and securing on-premise virtualized or cloud environments. Committed to delivering innovative solutions that solve business cases, driving business results and contribute to company growth.
+Highly skilled and motivated IT professional with expertise in Site Reliability Engineering (6+ years), Platform Engineeer (6+ years), Solutions Architect (10+ years), DevOps (6+ years) and Software Engineering (12+ years). Seeking a challenging position as a Load Balancer NSX-ALB Administrator, Platform-as-a-Service (PaaS) Openshift 3.11/4.x Administrator/ Kubernetes, Automation development, CI/CD development to leverage my experience in ensuring high availability, load balancing, enhancing application delivery, and securing on-premise virtualized or cloud environments. Committed to delivering innovative solutions that solve business cases, driving business results and contribute to company growth.
 
 ## Key Skills
 
 - Site Reliability Engineering (SRE)
+- Platform Engineeer
+- Solutions Architect
 - DevOps
 - Automation
 - Software Engineering (SWE)
-- Solutions Architecture
 - Senior Analysis
 - Load Balancer NSX-ALB Administration
 - Platform-as-a-Service (PaaS) Openshift 3.11 Administration
