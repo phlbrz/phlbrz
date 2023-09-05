@@ -1,13 +1,14 @@
-### Hi there 👋
+# Hi there 👋
 
 Presently, I'm working remotely and #OpenToWork, pursuing remote opportunities, considering a relocation to the US (Florida), and enthusiastic about embracing new challenges within a company.
 
-This Readme is a different style to have a CV from my LinkedIn profile at <https://www.linkedin.com/in/phlbrz>.
+- This Readme is a different style to have a CV from my LinkedIn profile at <https://www.linkedin.com/in/phlbrz>.
 
-About
+## About
+
 Highly skilled and motivated IT professional with expertise in Site Reliability Engineering (6+ years), Software Engineering (12+ years), DevOps (6+ years) and Solutions Architecture (10+ years). Seeking a challenging position as a Load Balancer NSX-ALB Administrator, Platform-as-a-Service (PaaS) Openshift 3.11/4.x Administrator/ Kubernetes, Automation development, CI/CD development to leverage my experience in ensuring high availability, load balancing, enhancing application delivery, and securing on-premise virtualized or cloud environments. Committed to delivering innovative solutions that solve business cases, driving business results and contribute to company growth.
 
-Key Skills:
+## Key Skills
 
 - Site Reliability Engineering (SRE)
 - DevOps
@@ -26,7 +27,8 @@ Key Skills:
 - Problem-solving and troubleshooting
 - Strong communication and teamwork
 
-Results:
+## Results
+
 - Designed, configured and managed a load balancer solution to secure, balance applications and easy troubleshoot. 
 - Architect, configured and deliver a container PaaS solution to deliver enterprise products safely and agile.
 - Led, developed automation, one was using Ansible integrated with Windows Server DNS. It generates CNAME DNS from a developer request in a TXT file in GitLab, GitLab-CI call an Ansible playbook and publish DNS in Windows for the developer and users, so they can access the intranet DNS / URL defined in Openshift 3.11 Route. Saved a lot of work to teams.
@@ -39,9 +41,15 @@ Results:
 - Developed, maintained projects for the government (Outsourcing), like ANAC and others.
 - Developed, maintained projects for the government (outsourcing) like MEC and IPHAN.
 
-Repositories:
+## Other links
+
 - https://hub.docker.com/u/phlbrz
 - https://crates.io/crates/demsf-rs
+
+## Other stuffs
+
+- I'm currently learning a bunch of stuff, everything change everyday in IT and when you love your field, you need to be stronger and educate yourself with new technologies.
+
 <!--
 **phlbrz/phlbrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
